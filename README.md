@@ -1,2 +1,2 @@
-# sumobot---Team-JAHSSumo
+#Sumobot-Team-JAHSSumo
 Repository for sumobot code
